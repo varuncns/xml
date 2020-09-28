@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ipl.xsl"?>
+
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="ipl.xsd">
+    
+ 
+
+ <!--  <person id="batsman">
+      <first-name>total_runs</first-name>
+      <last-name>out</last-name>
+      <stats>
+         <street>numberofballs</street>
+         <city>average</city>
+         <state>strikerate</state>
+          
+          
+      </stats>
+   </person>
+   -->
+    
+ 
+
+   <person id="V Kohli">
+      <first-name>5426</first-name>
+      <last-name>152</last-name>
+      <stats>
+         <street>4111</street>
+         <city>35.69736842105263</city>
+         <state>131.98735100948676</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="SK Raina">
+      <first-name>5386</first-name>
+      <last-name>160</last-name>
+      <stats>
+         <street>3916</street>
+         <city>33.6625</city>
+         <state>137.53830439223697</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="RG Sharma">
+      <first-name>4902</first-name>
+      <last-name>161</last-name>
+      <stats>
+         <street>3742</street>
+         <city>30.4472049689441</city>
+         <state>130.99946552645645</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="DA Warner">
+      <first-name>4717</first-name>
+      <last-name>114</last-name>
+      <stats>
+         <street>3292</street>
+         <city>41.37719298245614</city>
+         <state>143.28675577156744</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="S Dhawan">
+      <first-name>4601</first-name>
+      <last-name>137</last-name>
+      <stats>
+         <street>3665</street>
+         <city>33.583941605839414</city>
+         <state>125.53888130968622</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="CH Gayle">
+      <first-name>4525</first-name>
+      <last-name>110</last-name>
+      <stats>
+         <street>2972</street>
+         <city>41.13636363636363</city>
+         <state>152.2543741588156</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="MS Dhoni">
+      <first-name>4450</first-name>
+      <last-name>118</last-name>
+      <stats>
+         <street>3206</street>
+         <city>37.71186440677966</city>
+         <state>138.80224578914536</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="RV Uthappa">
+      <first-name>4420</first-name>
+      <last-name>156</last-name>
+      <stats>
+         <street>3381</street>
+         <city>28.333333333333332</city>
+         <state>130.73055309080155</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="AB de Villiers">
+      <first-name>4414</first-name>
+      <last-name>104</last-name>
+      <stats>
+         <street>2902</street>
+         <city>42.44230769230769</city>
+         <state>152.10199862164023</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="G Gambhir">
+      <first-name>4219</first-name>
+      <last-name>134</last-name>
+      <stats>
+         <street>3400</street>
+         <city>31.48507462686567</city>
+         <state>124.08823529411765</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="AM Rahane">
+      <first-name>3834</first-name>
+      <last-name>117</last-name>
+      <stats>
+         <street>3133</street>
+         <city>32.76923076923077</city>
+         <state>122.37472071496968</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="KD Karthik">
+      <first-name>3669</first-name>
+      <last-name>138</last-name>
+      <stats>
+         <street>2813</street>
+         <city>26.58695652173913</city>
+         <state>130.43014575186632</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="SR Watson">
+      <first-name>3590</first-name>
+      <last-name>115</last-name>
+      <stats>
+         <street>2566</street>
+         <city>31.217391304347824</city>
+         <state>139.90646921278253</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="AT Rayudu">
+      <first-name>3313</first-name>
+      <last-name>114</last-name>
+      <stats>
+         <street>2616</street>
+         <city>29.06140350877193</city>
+         <state>126.64373088685015</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="YK Pathan">
+      <first-name>3222</first-name>
+      <last-name>110</last-name>
+      <stats>
+         <street>2240</street>
+         <city>29.29090909090909</city>
+         <state>143.83928571428572</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="BB McCullum">
+      <first-name>2886</first-name>
+      <last-name>106</last-name>
+      <stats>
+         <street>2185</street>
+         <city>27.22641509433962</city>
+         <state>132.08237986270024</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="PA Patel">
+      <first-name>2864</first-name>
+      <last-name>127</last-name>
+      <stats>
+         <street>2352</street>
+         <city>22.551181102362204</city>
+         <state>121.7687074829932</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="MK Pandey">
+      <first-name>2855</first-name>
+      <last-name>95</last-name>
+      <stats>
+         <street>2352</street>
+         <city>30.05263157894737</city>
+         <state>121.3860544217687</state>
+          
+          
+      </stats>
+   </person>
+</document>
