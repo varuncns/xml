@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE document [
+<!ELEMENT document (person)+>
+<!ATTLIST document
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT person (first-name,last-name,stats)>
+<!ATTLIST person
+  xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED>
+
+<!ELEMENT first-name (#PCDATA)>
+<!ATTLIST first-name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT last-name (#PCDATA)>
+<!ATTLIST last-name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT stats (street,city,state)>
+<!ATTLIST stats
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT street (#PCDATA)>
+<!ATTLIST street
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT city (#PCDATA)>
+<!ATTLIST city
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT state (#PCDATA)>
+<!ATTLIST state
+  xmlns CDATA #FIXED ''>
+]>
+<document>
+    
+ 
+
+   <person id="batsman">
+      <first-name>total_runs</first-name>
+      <last-name>out</last-name>
+      <stats>
+         <street>numberofballs</street>
+         <city>average</city>
+         <state>strikerate</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="V Kohli">
+      <first-name>5426</first-name>
+      <last-name>152</last-name>
+      <stats>
+         <street>4111</street>
+         <city>35.69736842105263</city>
+         <state>131.98735100948676</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="SK Raina">
+      <first-name>5386</first-name>
+      <last-name>160</last-name>
+      <stats>
+         <street>3916</street>
+         <city>33.6625</city>
+         <state>137.53830439223697</state>
+          
+          
+      </stats>
+   </person>
+    
+ 
+
+   <person id="RG Sharma">
+      <first-name>4902</first-name>
+      <last-name>161</last-name>
+      <stats>
+         <street>3742</street>
+         <city>30.4472049689441</city>
+         <state>130.99946552645645</state>
+          
+          
+      </stats>
+   </person>
+    
+    
+ 
+
+   <person id="MK Pandey">
+      <first-name>2855</first-name>
+      <last-name>95</last-name>
+      <stats>
+         <street>2352</street>
+         <city>30.05263157894737</city>
+         <state>121.3860544217687</state>
+          
+          
+      </stats>
+   </person>
+</document>
